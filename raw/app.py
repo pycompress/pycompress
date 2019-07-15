@@ -1,4 +1,4 @@
-# An lossless Image Compression tool
+# A lossless Image Compression tool
 # Author: Onyenanu Princewill
 # Copyright: (c) 2019
 
